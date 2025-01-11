@@ -1,2 +1,2 @@
-console.log(hellow)
+console.log(conflict)
 console.log(feature-1)
